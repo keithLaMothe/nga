@@ -10,3 +10,5 @@
 
 Now when the student logs in, they will see the course and be able to access it.
 
+\(Note: In case you're curious, "Enrol" is the UK spelling, "Enroll" is the US spelling\)
+

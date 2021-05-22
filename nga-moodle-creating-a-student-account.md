@@ -1,7 +1,7 @@
 # NGA Moodle: Creating a Student Account
 
 1. Login to [https://nga.moodlehub.com/](https://nga.moodlehub.com/)
-2. On left sidebar, click `Site administration`
+2. On the left sidebar, click `Site administration`
 3. In the main content area, click the `Users` tab
 4. In the `Accounts` section, click `Add a new user`
 5. Fill out `Username`

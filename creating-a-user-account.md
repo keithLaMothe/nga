@@ -23,9 +23,9 @@ If this user is a teacher who will be creating their own course\(s\), follow the
 4. Under `Please choose a role to assign`, click `Course creator`.
 5. Under `Potential users`, click the new user, then click the `◄ Add` button.
 
-If this user is a teacher who will be teaching an existing course, please follow the Assigning a User to a Course guide to assign the teacher to the appropriate course\(s\).
+If this user is a teacher who will be teaching an existing course, please follow the [Assigning a User to a Course](https://app.gitbook.com/@keith-lamothe/s/nga-test/nga-moodle-enrolling-a-student-in-a-course) guide to assign the teacher to the appropriate course\(s\).
 
-If this user is a student, please follow the Assigning a User to a Course guide to enroll them in the appropriate course\(s\).
+If this user is a student, please follow the [Assigning a User to a Course](https://app.gitbook.com/@keith-lamothe/s/nga-test/nga-moodle-enrolling-a-student-in-a-course) guide to enroll them in the appropriate course\(s\).
 
 The email address you specified will receive an email with instructions for the user to log in to his account.
 

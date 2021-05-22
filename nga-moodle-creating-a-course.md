@@ -1,4 +1,6 @@
-# NGA Moodle: Creating a Course
+# Creating a Course
+
+This guide is for Course Creators \(Site Administrators can also use it\).
 
 General note: many steps take you through screens with a ton of other fields and options you can set, but you should usually leave them all as defaults to save time and improve consistency.
 

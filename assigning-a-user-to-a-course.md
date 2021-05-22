@@ -2,6 +2,8 @@
 
 This guide is for Site Administrators, and can be used to assign a teacher to a course they did not create or to enroll a student in a course.
 
+Note: if a user is a Course Creator and creates a course, they are automatically a Teacher for that course. You do not need to assign them to it.
+
 1. Login to [https://nga.moodlehub.com/](https://nga.moodlehub.com/) .
 2. On left sidebar, click `Site home`.
 3. In the main content area, navigate to the course \(e.g. click `Language` and then `Hebrew I`\).

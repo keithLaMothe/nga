@@ -36,7 +36,7 @@ Adding course content is basically a repetition of steps 13-16. Here's how to ad
   * Under `General`, enter `Name`.
   * Under `Content`, in `Page content`, click the down arrow and then the `</>` button to switch to HTML input.
   * Replace the default HTML \(looks like `<p dir="ltr" style="text-align: left;"><br></p>`\) with the embed code for the video into the HTML input, example: `<div class="muse-video-player" data-video="njZPo2j" data-width="576"></div><script src="https://muse.ai/static/js/embed-player.min.js"></script>`
-* **Discussion forum a single recorded video**: add item to same week as the video, and select `Forum` \(this is on the Activities tab, not Resources\), then:
+* **Discussion forum for a single recorded video**: add item to same week as the video, and select `Forum` \(this is on the Activities tab, not Resources\), then:
   * Under `General`, enter `Forum name` \(e.g. "Lesson 1 Discussion"\).
   * If you want the first "post" of the discussion to have some text, enter that in the `Description` field.
   * Change `Forum type` to `A single simple discussion`.

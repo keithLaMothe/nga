@@ -26,7 +26,12 @@ Adding course content is basically a repetition of steps 13-16. Here's how to ad
 
 * **Welcome/header message**: click `Add an activity or resource` on the top section, select `Label`, enter `Label text`, and click `Save and return to course`.
   * Label text can be heavily formatted using the visual editor or by entering raw HTML \(click the down arrow in the upper-left corner of the Label text editor, then click the &lt;/&gt; button on the row that appears\).
-* **Reading assignment**: Use the `Add an activity or resource` link on the week you want the assignment on, select `Label`, and set `Label text` to something like "Book you should read, pp. 4-12".
+* **Reading assignment**: Use the `Add an activity or resource` link on the week you want the assignment on, select `Checklist`, then:
+  * Under `General` , enter `Checklist` \(e.g. "Week 1 Readings"\).
+  * Under `Settings` , enter `Maximum Grade` \(e.g. "1"\)
+  * Click `Save and display` .
+  * It will automatically highlight the box for entering the first item, enter the first reading for that week \(e.g. "Book you should read, pp. 4-12"\) and click `Add`.
+  * Add any further readings for that week, and then navigate back to the course \(by clicking the name at the top of the left sidebar, for example\) to continue adding other content.
 * **Recorded video**: Select `Page`, then:
   * Under `General`, enter `Name`.
   * Under `Content`, in `Page content`, click the down arrow and then the `</>` button to switch to HTML input.

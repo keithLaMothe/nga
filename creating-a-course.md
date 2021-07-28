@@ -56,12 +56,12 @@ Adding course content is basically a repetition of steps 13-16. Here's how to ad
   * Under `General`, enter `Name` \(e.g. "Quiz 1"\).
   * If desired, under `Timing`, enter `Open the quiz` and/or `Close the quiz` to control when students can attempt it.
   * Under `Grade`, change `Attempts allowed` from Unlimited to 1.
-  * If desired, under `Layout`, change `New page` from `Every Question` to `Never, all questions on one page`.
   * If desired, under `Question` behavior, change `Shuffle within questions` to No, if you want the questions to be in the same order for each student.
   * Click `Save and display` and then `Edit Quiz` to proceed to enter individual questions.
   * On the right side, under the Shuffle checkbox, click `Add`, then `a new question`, and then select `Essay` and click `Add`.
   * Under `General`, enter `Question name` \(e.g. "1"\) and `Question text`.
   * If desired, change `Default mark` to something other than 1, if you want it to be weighted differently. So if you have a 3-mark question and a 1-mark question on a quiz with a max score of 10, the first question will be worth 7.5 and the other worth 2.5.
+  * Under `Response options` , change `Response format` to `Plain Text` .
   * Click `Save changes`.
   * Click the `Add` -&gt; `a new question` links again to add more questions, until done  
     * Note: you can also add true/false, multiple choice, and other kinds of questions that are automatically graded.
